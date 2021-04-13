@@ -1,0 +1,12 @@
+six
+cycler
+kiwisolver
+Pillow
+python-dateutil
+pyparsing
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+numpy
+scipy
+matplotlib
